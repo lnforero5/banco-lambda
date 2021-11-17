@@ -6,7 +6,10 @@
 package com.mycompany.bancop;
 
 
-import java.util.ArrayList;
+
+
+
+
 
 /**
  *
@@ -29,9 +32,4 @@ public class LambdaRequest {
     }
 
     private String groups;
-
-    int length() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
 }
